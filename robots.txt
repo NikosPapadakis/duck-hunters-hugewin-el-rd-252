@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://duck-hunters-hugewin-el-252.onrender.com/sitemap.xml
